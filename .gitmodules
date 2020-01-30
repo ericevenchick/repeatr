@@ -84,4 +84,4 @@
 	url = https://github.com/warpfork/go-wish
 [submodule ".gopath/src/golang.org/x/sys"]
 	path = .gopath/src/golang.org/x/sys
-	url = git@github.com:golang/sys
+	url = https://github.com/golang/sys
